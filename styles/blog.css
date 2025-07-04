@@ -1,0 +1,10 @@
+div{
+    border: 10px solid yellowgreen;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.title{
+    color: aqua;
+    background-color: black;
+}
