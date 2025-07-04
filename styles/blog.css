@@ -2,9 +2,14 @@ div{
     border: 10px solid yellowgreen;
     border-radius: 10px;
     margin-bottom: 10px;
+    padding: 15px;
 }
 
 .title{
     color: aqua;
     background-color: black;
+}
+.blog_content{
+    color: blue;
+    background-color: cornflowerblue;
 }
